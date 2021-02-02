@@ -9,7 +9,7 @@ This is Wei Zhao, currently a Research Scientist in Department of Aerospace and 
 
     Aeroelasticitiy;
 
-I have shared some of my research code in the GitHub, feel free to shoot me an email if you have any questions.
+Feel free to shoot me an email if you have any questions.
 
 📫 weizhao(at)vt.edu / zhaowei0566(at)outlook.com
 
