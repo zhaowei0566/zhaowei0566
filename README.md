@@ -1,5 +1,5 @@
 ### Hi there 👋
-This is Wei Zhao, currently a Research Scientist in Department of Aerospace and Ocean Engineering at Virginia Polytechnic Institute and State University (Blacksburg Campus). My research mainly focuses on developing mathematical models for nature shape structures, composite structures and their applications in airplane design. Research studies including:
+This is Wei Zhao, currently a Research Associate in Department of Aerospace and Ocean Engineering at Virginia Polytechnic Institute and State University (Blacksburg Campus). My research mainly focuses on developing mathematical models for nature shape structures, composite structures and their applications in airplane design. Research studies including:
 
     Inflatable Kite;
 
