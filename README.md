@@ -9,7 +9,7 @@ This is Wei Zhao, my research mainly focuses on developing mathematical models f
 
 Feel free to shoot me an email if you have any questions.
 
-📫 weizhao(at)vt.edu / zhaowei0566(at)outlook.com
+📫 wzhao(at)okstate.edu / zhaowei0566(at)outlook.com
 
 <!--
 **zhaowei0566/zhaowei0566** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
