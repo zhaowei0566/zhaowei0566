@@ -1,13 +1,10 @@
 ### Hi there 👋
 This is Wei Zhao, my research mainly focuses on developing mathematical models for nature shape structures, composite structures and their applications in airplane design. Research studies including:
    
-   Composite Structures;
-   
-   Additive Manufacturing of Metal Parts;
-   
-   Inflatable Kite;
-   
-   Multidisciplinary Design, Analysis and Optimization;
+- Composite Structures;
+- Additive Manufacturing of Metal Parts;
+- Inflatable Kite;
+- Multidisciplinary Design, Analysis and Optimization;
 
 
 Feel free to shoot me an email if you have any questions.
